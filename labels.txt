@@ -1,0 +1,6 @@
+0 Pigeons
+1 Sparrows
+2 Falcons
+3 Gulls
+4 Toucans
+5 Parrots
